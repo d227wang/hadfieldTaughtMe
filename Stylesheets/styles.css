@@ -1,0 +1,30 @@
+.background {
+    height: 100vh;
+    background: url("/Images/spaceBackground.jpeg") no-repeat center center;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Poiret One', cursive;
+    color: white;
+    font-size: 48pt;
+    padding-left: 50px;
+}
+.quoteBox {
+    min-height: 20vh;
+    padding-left: 10vw;
+    padding-right: 20vw;
+    padding-top: 5vh; 
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 18pt;
+}
+
+.nextBtn{
+    
+}
+.nextShip{ 
+    display: block; 
+    margin: auto; 
+    padding-top: 5vh; 
+    width: 150px; 
+}
