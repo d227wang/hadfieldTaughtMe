@@ -1,0 +1,16 @@
+html,
+body {
+    overflow-x: hidden;
+}
+h1 {
+    padding-left: 15vw; 
+    font-size: 18pt;
+}
+.quoteBox {
+    font-size: 14pt;
+    padding-right: 10vw;
+    padding-left: 10vw; 
+}
+.nextShip {
+    width: 75px;
+}
