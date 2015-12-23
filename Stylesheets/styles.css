@@ -1,7 +1,7 @@
 html, body {margin: 0; height: 100%; overflow-y: hidden; overflow-x: hidden;}
 .background {
     height: 100vh;
-    background: url("../Images/spaceBackground.jpeg") no-repeat center center;
+    background: url("../Images/spaceBackground-bigger.jpg") no-repeat center center;
     background-size: cover;
 }
 h1 {
