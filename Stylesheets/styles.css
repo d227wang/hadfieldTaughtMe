@@ -1,3 +1,4 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
 .background {
     height: 100vh;
     background: url("../Images/spaceBackground.jpeg") no-repeat center center;
