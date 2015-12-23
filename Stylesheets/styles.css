@@ -15,7 +15,7 @@ h1 {
     padding-right: 20vw;
     padding-top: 5vh; 
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif !important;
     font-size: 18pt;
 }
 
